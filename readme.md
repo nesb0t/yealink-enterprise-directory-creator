@@ -73,7 +73,7 @@ XML Output:
 
 Screenshot on Yealink:
 
-![Example Remote Directory](http://deploy.celitovoice.net/directory/github-example.png)
+![Example Remote Directory](https://raw.githubusercontent.com/nesb0t/yealink-enterprise-directory-creator/master/github-example.png)
 
 # Troubleshooting
 - There are a number of items that are commented out by the pound sign (#) rather than my usual //. These items will also have a trailing comment that reads "*// Uncomment for basic debugging*." If you are having trouble getting this to work, you can uncomment those lines as necessary to figure out where it may be failing. Just run the file from the command line or make it web-accessible in your local environment and access it from your web browser.
